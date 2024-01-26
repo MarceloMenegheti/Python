@@ -8,8 +8,6 @@ y = "lemao"
 print(x)
 print(y)
  
-
-
 # descrever o tipo de var
 """"""
 t = 4
@@ -17,8 +15,6 @@ print(f"\nA variavel t =\'{t}\' do tipo: ",type(t))
 print("\talterando o tipo da varivel \'t\' para String")
 t = 'Marcelo'
 print(f"A variavel t =\'{t}\' agora eh do tipo: ",type(t))
-
-
 
 # Nomes Variaveis
 """"""
